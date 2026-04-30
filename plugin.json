@@ -1,0 +1,13 @@
+{
+  "name": "LeGo2 Fan Control",
+  "version": "0.260430",
+  "author": "Luke Cama",
+  "description": "Full unrestricted fan control for the Legion Go 2",
+  "flags": [
+    "root"
+  ],
+  "api_version": 2,
+  "main": "main.py",
+  "bin": "dist/index.js",
+  "icon": "🌀"
+}
